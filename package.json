@@ -1,33 +1,17 @@
 {
-  "name": "@yawetse/pkgcloud",
+  "name": "@mariner/pkgcloud",
   "description": "An infrastructure-as-a-service agnostic cloud library for node.js",
   "version": "1.2.0",
-  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "author": "Dax",
   "contributors": [
     {
-      "name": "Nuno Job",
-      "email": "nuno@nodejitsu.com"
-    },
-    {
-      "name": "Maciej Malecki",
-      "email": "me@mmalecki.com"
-    },
-    {
-      "name": "Daniel Aristizabal",
-      "email": "daniel@nodejitsu.com"
-    },
-    {
-      "name": "Ken Perkins",
-      "email": "ken.perkins@rackspace.com"
-    },
-    {
-      "name": "Ross Kukulinski",
-      "email": "ross@getyodlr.com"
+      "name": "Dax",
+      "email": "dpatel@marinerfinance.coom"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/pkgcloud/pkgcloud.git"
+    "url": "http://github.com/marinerfinance/pkgcloud.git"
   },
   "keywords": [
     "cloud",
